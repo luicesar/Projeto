@@ -1,0 +1,17 @@
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\CalcTest.Unit.deps.json
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\CalcTest.Unit.runtimeconfig.json
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\CalcTest.Unit.runtimeconfig.dev.json
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\CalcTest.Unit.dll
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\CalcTest.Unit.pdb
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\CalcTest.API.dll
+d:\Projeto\CalcTest.Unit\bin\Debug\netcoreapp2.2\CalcTest.API.pdb
+d:\Projeto\CalcTest.Unit\obj\Debug\netcoreapp2.2\CalcTest.Unit.csprojAssemblyReference.cache
+d:\Projeto\CalcTest.Unit\obj\Debug\netcoreapp2.2\CalcTest.Unit.csproj.CoreCompileInputs.cache
+d:\Projeto\CalcTest.Unit\obj\Debug\netcoreapp2.2\CalcTest.Unit.AssemblyInfoInputs.cache
+d:\Projeto\CalcTest.Unit\obj\Debug\netcoreapp2.2\CalcTest.Unit.AssemblyInfo.cs
+d:\Projeto\CalcTest.Unit\obj\Debug\netcoreapp2.2\CalcTest.Unit.csproj.CopyComplete
+d:\Projeto\CalcTest.Unit\obj\Debug\netcoreapp2.2\CalcTest.Unit.dll
+d:\Projeto\CalcTest.Unit\obj\Debug\netcoreapp2.2\CalcTest.Unit.pdb
