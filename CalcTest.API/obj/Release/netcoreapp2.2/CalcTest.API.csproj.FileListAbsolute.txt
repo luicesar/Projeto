@@ -1,0 +1,14 @@
+D:\Projeto\CalcTest.API\bin\Release\netcoreapp2.2\CalcTest.API.deps.json
+D:\Projeto\CalcTest.API\bin\Release\netcoreapp2.2\CalcTest.API.runtimeconfig.json
+D:\Projeto\CalcTest.API\bin\Release\netcoreapp2.2\CalcTest.API.runtimeconfig.dev.json
+D:\Projeto\CalcTest.API\bin\Release\netcoreapp2.2\CalcTest.API.dll
+D:\Projeto\CalcTest.API\bin\Release\netcoreapp2.2\CalcTest.API.pdb
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.csprojAssemblyReference.cache
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.csproj.CoreCompileInputs.cache
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.RazorAssemblyInfo.cache
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.RazorAssemblyInfo.cs
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.AssemblyInfoInputs.cache
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.AssemblyInfo.cs
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.RazorTargetAssemblyInfo.cache
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.dll
+D:\Projeto\CalcTest.API\obj\Release\netcoreapp2.2\CalcTest.API.pdb
