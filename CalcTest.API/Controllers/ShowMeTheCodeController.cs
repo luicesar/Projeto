@@ -17,7 +17,7 @@ namespace CalcTest.API.Controllers
   public class ShowMeTheCodeController : ControllerBase
   {
     private HttpClient client;
-    private string URLAPI = "https://api.github.com/repos";
+    private string URLAPI = "https://api.github.com/repos/luicesar";
 
     public ShowMeTheCodeController()
     {
@@ -30,7 +30,7 @@ namespace CalcTest.API.Controllers
     [HttpGet]
     public async Task<object> Get()
     {
-      var result = await GetRespositoryAsync($"{URLAPI}/goweek");
+      var result = await GetRespositoryAsync($"{URLAPI}/projeto");
       return Ok(result);
     }
 
